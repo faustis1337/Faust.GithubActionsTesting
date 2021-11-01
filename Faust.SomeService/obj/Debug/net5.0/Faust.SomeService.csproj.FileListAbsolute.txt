@@ -1,0 +1,12 @@
+C:\Users\Faust\RiderProjects\Faust.GithubActionsTesting\Faust.SomeService\bin\Debug\net5.0\Faust.SomeService.deps.json
+C:\Users\Faust\RiderProjects\Faust.GithubActionsTesting\Faust.SomeService\bin\Debug\net5.0\Faust.SomeService.dll
+C:\Users\Faust\RiderProjects\Faust.GithubActionsTesting\Faust.SomeService\bin\Debug\net5.0\ref\Faust.SomeService.dll
+C:\Users\Faust\RiderProjects\Faust.GithubActionsTesting\Faust.SomeService\bin\Debug\net5.0\Faust.SomeService.pdb
+C:\Users\Faust\RiderProjects\Faust.GithubActionsTesting\Faust.SomeService\obj\Debug\net5.0\Faust.SomeService.csproj.AssemblyReference.cache
+C:\Users\Faust\RiderProjects\Faust.GithubActionsTesting\Faust.SomeService\obj\Debug\net5.0\Faust.SomeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faust\RiderProjects\Faust.GithubActionsTesting\Faust.SomeService\obj\Debug\net5.0\Faust.SomeService.AssemblyInfoInputs.cache
+C:\Users\Faust\RiderProjects\Faust.GithubActionsTesting\Faust.SomeService\obj\Debug\net5.0\Faust.SomeService.AssemblyInfo.cs
+C:\Users\Faust\RiderProjects\Faust.GithubActionsTesting\Faust.SomeService\obj\Debug\net5.0\Faust.SomeService.csproj.CoreCompileInputs.cache
+C:\Users\Faust\RiderProjects\Faust.GithubActionsTesting\Faust.SomeService\obj\Debug\net5.0\Faust.SomeService.dll
+C:\Users\Faust\RiderProjects\Faust.GithubActionsTesting\Faust.SomeService\obj\Debug\net5.0\ref\Faust.SomeService.dll
+C:\Users\Faust\RiderProjects\Faust.GithubActionsTesting\Faust.SomeService\obj\Debug\net5.0\Faust.SomeService.pdb

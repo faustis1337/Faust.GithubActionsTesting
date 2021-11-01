@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faust.GithubActionsTesting", "Faust.GithubActionsTesting\Faust.GithubActionsTesting.csproj", "{A46F0972-699B-44E1-A62D-AFC455BC47C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faust.SomeService", "Faust.SomeService\Faust.SomeService.csproj", "{A5C5C95E-919A-4AB3-A215-80892594C571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faust.ConsoleApp", "Faust.ConsoleApp\Faust.ConsoleApp.csproj", "{E5BFE653-0257-4E21-BD78-B32C4E2395ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{A46F0972-699B-44E1-A62D-AFC455BC47C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A46F0972-699B-44E1-A62D-AFC455BC47C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A46F0972-699B-44E1-A62D-AFC455BC47C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C5C95E-919A-4AB3-A215-80892594C571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C5C95E-919A-4AB3-A215-80892594C571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C5C95E-919A-4AB3-A215-80892594C571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C5C95E-919A-4AB3-A215-80892594C571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5BFE653-0257-4E21-BD78-B32C4E2395ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5BFE653-0257-4E21-BD78-B32C4E2395ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5BFE653-0257-4E21-BD78-B32C4E2395ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5BFE653-0257-4E21-BD78-B32C4E2395ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
