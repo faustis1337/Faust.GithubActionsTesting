@@ -20,7 +20,7 @@ namespace Faust.GithubActionsTesting
 
             int result = CalcService.addTwoNumbers(firstNumber, secondNumber);
 
-            Assert.AreEqual(result, 4);
+            Assert.AreEqual(result, 5);
         }
     }
 }
